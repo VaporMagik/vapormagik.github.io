@@ -1,13 +1,14 @@
 <html>
-  <head>
-    <meta name="twitter:image" content="https://www.facebook.com/596405424196339/photos/d41d8cd9/596405624196319/" />
-    <meta name="twitter:card" content="player" />
-    <meta name="twitter:title" content="Tanjiro is LIVE!" />
-    <meta name="twitter:description" content="Hey I'm goin live rn come thru" /> <meta name="twitter:player" content="https://player.twitch.tv/?channel=vapormagik&html5&parent=vapormagik.github.io&quality=mobile" />
-    <meta name="twitter:player:width" content="360" />
-    <meta name="twitter:player:height" content="200" />
-  <title>VaporMagik</title>
-  </head>
-  <body>
-  </body>
+  <div class="twitch">
+      <div class="twitch-video">
+        <iframe
+          src="https://player.twitch.tv/?channel=vapormagik&parent=vapormagik.github.io"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen="true"
+          height="100%"
+          width="100%">
+        </iframe>
+      </div>
+    </div>
 </html>
