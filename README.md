@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Project: Travel webpage</title>
+  <meta name="twitter:image" content="https://www.facebook.com/596405424196339/photos/d41d8cd9/596405624196319/" />
+  <meta name="twitter:card" content="player" />
+  <meta name="twitter:title" content="Tanjiro is LIVE!" />
+  <meta name="twitter:description" content="Hey I'm goin live rn come thru" /> <meta name="twitter:player" content="https://player.twitch.tv/ channel=tanjiro5seven&html5&muted=true&quality=mobile" />
+  <meta name="twitter:player:width" content="360" />
+  <meta name="twitter:player:height" content="200" />
+  <title> Tanjirosama </title>
   </head>
   <body>
-    
-    <h1>Travel to Costa Rica</h1>
-    
-    <p>...and you'll get to see these beauties!</p>
-    <img src="https://pbs.twimg.com/media/FC0-GS6VcAARedk?format=jpg&name=large" alt="Scary crocodiles" width="500"/>
   </body>
 </html>
