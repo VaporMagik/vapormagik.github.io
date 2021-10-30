@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1441874624375967744/wmqTqCGg_400x400.jpg />
+    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1441874624375967744/wmqTqCGg_400x400.jpg" />
   <div class="twitch">
       <div class="twitch-video">
         <iframe
