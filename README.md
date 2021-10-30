@@ -13,7 +13,7 @@
         height: 480,
         channel: "vapormagik",
         // Only needed if this page is going to be embedded on other websites
-        parent: ["vapormagik.github.io"]
+        parent: ["vapormagik.github.io","twitter.com"]
       });
     </script>
   </body>
